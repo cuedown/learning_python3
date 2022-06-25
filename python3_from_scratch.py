@@ -1,3 +1,8 @@
+# SOURCES : https://www.educative.io/courses/learn-python-3-from-scratch/
+#           https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+#           https://developers.google.com/edu/python
+# 
+# i am copy pasting documentation and equations from each, as well as doing some of my own.
 import string
 print("Hello World") #this line prints hello world
 print(500) #this line prints 500
